@@ -1,0 +1,4 @@
+chat/
+chat__POA/
+chat_idl.py
+*.pyc
